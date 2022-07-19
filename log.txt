@@ -1,0 +1,4 @@
+Megtalált DMC párok: 0 
+ Képek ahol nem található DMC: 0 
+ Képek ahol CSAK egy dmc található: 0 
+ Átnézendő fájlok: []

@@ -1,0 +1,1 @@
+Start: cmd window -> python main.py
